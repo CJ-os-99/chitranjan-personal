@@ -21,8 +21,12 @@ export default function Home() {
 
         <section id="background" className="mb-8">
           <h2 className="text-xl font-semibold mb-2">My Background</h2>
-          <p>I’m an early stage investor at Accel. I spend most of my time on AI & cybersecurity and opportunistically also spend time on deeptech & consumer platforms.</p>
-          <p className="mt-2">I was an operator in my previous avatar as I spent time as a generalist (mix of product management & business) at Mosaic Wellness. They’re a global consumer health platform with targeted value propositions for elective health concerns for men, women & children. I joined them when they were at ~$10m topline and helped them scale to ~$50m by the time I left by setting up the telehealth BU from scratch.</p>
+          <p>
+            I’m an early stage investor at Accel. I spend most of my time on AI & cybersecurity, and opportunistically on deeptech & consumer platforms.
+          </p>
+          <p className="mt-2">
+            Previously, I was an operator at a consumer health platform called Mosaic Wellness. They're backed by Sequoia Capital, Matrix Partners and Elevation Capital. I joined them at ~$10M topline and helped scale to ~$50M by setting up their telehealth business unit from scratch.
+          </p>
         </section>
 
         <section id="sectors" className="mb-8">
@@ -131,19 +135,20 @@ export default function Home() {
         <section id="markets" className="mb-8">
           <h2 className="text-xl font-semibold mb-2">Loose Frameworks for How I Think About Markets & Business</h2>
           <ul className="list-disc list-inside text-sm">
-            <li>Ideally $2–3B+ markets are preferred</li>
-            <li>Bottoms-up TAM calculation builds more confidence than top-down; triangulation with both methods is best</li>
-            <li>If the TAM of what you're building is small, ideally small should also be greater than $500M</li>
-            <li>If TAM is greater than $1B, then either:</li>
-            <ul className="list-disc ml-6">
-              <li>It should be growing at 15%+ CAGR</li>
-              <li>Or you need to have a clear articulation of how you will expand TAM by leveraging Act 1 to segue into Act 2 which opens up more revenue pools</li>
-            </ul>
-            <li>Best way to articulate TAM in software/AI is to look at existing spend pool on headcount/software in your category</li>
-            <li>Also, clearly articulate the Top 3 players in your category along with their scale to build confidence and demonstrate that large companies have been created in this category</li>
-            <li>Holy Trifecta: Low time to value + Low time to implement + Common pain point in ICP</li>
-            <li>Very clear/honest articulation of distinction between live/contracted/advanced stage conversation ARR</li>
-            <li>Sleepy Categories – Where there are large incumbents who have not been disrupted for a 10+ years, status quo of coordination is email/excel sheets, Very deep tech differentiation/Unique IP</li>
+            <li>Ideally prefer $2–3B+ markets</li>
+            <li>Bottoms-up TAM calculation builds more confidence than top-down; triangulation of both is best</li>
+            <li>If TAM is small, it should still be {'>'}$500M</li>
+            <li>If TAM is {'<'}$1B, then either:
+              <ul className="list-disc ml-6">
+                <li>It should be growing 15%+ CAGR</li>
+                <li>Or there must be a clear articulation of how TAM expands via Act 1 → Act 2 progression</li>
+              </ul>
+            </li>
+            <li>Best way to articulate TAM in software/AI: show existing spend on headcount/software in the category</li>
+            <li>Clearly highlight top 3 players in the space with their scale to build category confidence</li>
+            <li>"Holy Trifecta": Low time to value + Low time to implement + Common pain point in ICP</li>
+            <li>Clear & honest distinction between live / contracted / advanced-stage conversation ARR</li>
+            <li>I like categories with sleepy large incumbents (10+ yrs since a $100M+ business was built), fragmented systems of record, coordination via email/Excel/PPT/docs, and/or unique tech/IP wedge</li>
           </ul>
         </section>
 
