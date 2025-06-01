@@ -116,7 +116,7 @@ export default function Home() {
             <li>Sharp articulation of founder right to win</li>
             <li>Early signs of founders’ ability to attract high quality talent</li>
             <li>Very clear articulation of the problem statement – Important to establish the pain in status quo via a customer case study (existing headcount/headcount spend, how much time does it take to solve the problem, what is the existing tech stack)</li>
-            <li>Demo of status quo – I don’t think enough founders do this today</li>
+            <li>Demo of status quo workflows – I don’t think enough founders do this today</li>
             <li>Brownie points for founders who have already moved to the Bay Area</li>
             <li>Design pilots in US</li>
             <li>Sticky businesses – intuitively should be hard to churn out of them</li>
