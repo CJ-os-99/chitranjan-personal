@@ -141,7 +141,7 @@ export default function Home() {
             </li>
             <li>Best way to articulate TAM in software/AI: show existing spend on headcount/software in the category</li>
             <li>Clearly highlight top 3 players in the space with their scale to build category confidence</li>
-            <li>Sharp answer to can this business grow fast? -> Low time to value + Low time to implement + Common pain point in ICP</li>
+            <li>Sharp answer to can this business grow fast?: Low time to value + Low time to implement + Common pain point in ICP</li>
             <li>I like categories with sleepy large incumbents (10+ yrs since a $100M+ business was built), fragmented systems of record, coordination via email/Excel/PPT/docs, and/or unique tech/IP wedge</li>
           </ul>
         </section>
