@@ -113,14 +113,15 @@ export default function Home() {
         <section id="teams" className="mb-8">
           <h2 className="text-xl font-semibold mb-2">What Do I Look Out For in Early Stage Teams?</h2>
           <ul className="list-disc list-inside text-sm">
-            <li>Sharp articulation of founder right to win</li>
+            <li>Sharp articulation of founder's right to win</li>
             <li>Early signs of founders’ ability to attract high quality talent</li>
             <li>Very clear articulation of the problem statement – Important to establish the pain in status quo via a customer case study (existing headcount/headcount spend, how much time does it take to solve the problem, what is the existing tech stack)</li>
             <li>Demo of status quo workflows – I don’t think enough founders do this today</li>
             <li>Brownie points for founders who have already moved to the Bay Area</li>
-            <li>Design pilots in US</li>
-            <li>Sticky businesses – intuitively should be hard to churn out of them</li>
-            <li>Honest and deep thinking on moats</li>
+            <li>Design pilots/Paid customers in US</li>
+            <li>Clear & honest distinction between live / contracted / advanced-stage conversation ARR</li>
+            <li>Sticky businesses – Integrations, Multi-agent complex workflows</li>
+            <li>Moats - Built on non-publicly available data that cannot be crawled by LLMs, RLHF baked into workflows that makes your agents better over time</li>
             <li>Any unique right to win for this business to be built out of India? For eg AI Services</li>
             <li>High bar on product and design sense of website/demo – <a href="https://elevenlabs.io">Eleven Labs</a>, <a href="https://www.rox.com">Rox</a></li>
           </ul>
@@ -140,8 +141,7 @@ export default function Home() {
             </li>
             <li>Best way to articulate TAM in software/AI: show existing spend on headcount/software in the category</li>
             <li>Clearly highlight top 3 players in the space with their scale to build category confidence</li>
-            <li>"Holy Trifecta": Low time to value + Low time to implement + Common pain point in ICP</li>
-            <li>Clear & honest distinction between live / contracted / advanced-stage conversation ARR</li>
+            <li>"Sharp answer to can this business grow fast?": Low time to value + Low time to implement + Common pain point in ICP</li>
             <li>I like categories with sleepy large incumbents (10+ yrs since a $100M+ business was built), fragmented systems of record, coordination via email/Excel/PPT/docs, and/or unique tech/IP wedge</li>
           </ul>
         </section>
