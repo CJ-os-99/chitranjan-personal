@@ -133,8 +133,8 @@ export default function Home() {
           <ul className="list-disc list-inside text-sm">
             <li>Ideally $2–3B+ markets are preferred</li>
             <li>Bottoms-up TAM calculation builds more confidence than top-down; triangulation with both methods is best</li>
-            <li>If the TAM of what you're building is small, ideally small should also be >$500M</li>
-            <li>If TAM is &lt;$1B, then either:</li>
+            <li>If the TAM of what you're building is small, ideally small should also be greater than $500M</li>
+            <li>If TAM is greater than $1B, then either:</li>
             <ul className="list-disc ml-6">
               <li>It should be growing at 15%+ CAGR</li>
               <li>Or you need to have a clear articulation of how you will expand TAM by leveraging Act 1 to segue into Act 2 which opens up more revenue pools</li>
