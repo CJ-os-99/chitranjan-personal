@@ -41,7 +41,7 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">Themes I'm Excited About (Representative, Not Exhaustive)</h2>
           <p className="text-sm text-gray-500 mb-4">Examples below are companies I like in these categories. I may or may not have any affiliation with them.</p>
 
-          <p className="font-semibold mt-4">2. Vertical AI Agents</p>
+          <p className="font-semibold mt-4">1. Vertical AI Agents</p>
           <ul className="list-disc list-inside text-sm">
             <li>Vertical specific Voice AI agents – <a href="https://www.poly.ai">Poly AI</a>, <a href="https://www.assorthealth.com">Assort Health</a>, <a href="https://www.vocalityhealth.com">Vocality Health</a>, <a href="https://www.happyrobot.ai">Happyrobot</a></li>
             <li>AI agents for Life Sciences</li>
@@ -53,13 +53,13 @@ export default function Home() {
             <li>AI-powered travel booking platform</li>
           </ul>
 
-          <p className="font-semibold mt-4">3. AI-Enabled Agencies / Services</p>
+          <p className="font-semibold mt-4">2. AI-Enabled Agencies / Services</p>
           <ul className="list-disc list-inside text-sm">
             <li>Salesforce/SAP implementation agency</li>
             <li>AI-powered Conversion rate optimisation agency – <a href="https://fibr.ai/">Fibr AI</a></li>
           </ul>
 
-          <p className="font-semibold mt-4">4. AI Infra & Tooling</p>
+          <p className="font-semibold mt-4">3. AI Infra & Tooling</p>
           <ul className="list-disc list-inside text-sm">
             <li>AI-powered Data Documentation – <a href="https://www.getzingle.com/">Zingle</a></li>
             <li>Scale AI for audio – <a href="https://www.withdavid.ai/">David AI</a></li>
@@ -68,14 +68,14 @@ export default function Home() {
             <li>Observability for AI agents</li>
           </ul>
 
-          <p className="font-semibold mt-4">5. Consumer/Prosumer AI</p>
+          <p className="font-semibold mt-4">4. Consumer/Prosumer AI</p>
           <ul className="list-disc list-inside text-sm">
             <li>AI companions for kids</li>
             <li>AI coach for retail investors</li>
             <li>AI-native video generation/editing platform</li>
           </ul>
 
-          <p className="font-semibold mt-4">6. Knowledge Work</p>
+          <p className="font-semibold mt-4">5. Knowledge Work</p>
           <ul className="list-disc list-inside text-sm">
             <li>Gong for high ticket offline sales</li>
             <li>Video AI agent for pre-sales & onboarding</li>
