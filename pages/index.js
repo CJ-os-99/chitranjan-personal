@@ -21,15 +21,15 @@ export default function Home() {
 
         <section id="background" className="mb-8">
           <h2 className="text-xl font-semibold mb-2">My Background</h2>
-          <p>I’m an early stage investor at Accel. I spend most of my time on AI & cybersecurity, and opportunistically on deeptech & consumer platforms.</p>
-          <p className="mt-2">Previously, I was an operator at Mosaic Wellness (consumer health). I joined them at ~$10M topline and helped scale to ~$50M by setting up their telehealth BU from scratch.</p>
+          <p>I’m an early stage investor at Accel. I spend most of my time on AI & cybersecurity and opportunistically also spend time on deeptech & consumer platforms.</p>
+          <p className="mt-2">I was an operator in my previous avatar as I spent time as a generalist (mix of product management & business) at Mosaic Wellness. They’re a global consumer health platform with targeted value propositions for elective health concerns for men, women & children. I joined them when they were at ~$10m topline and helped them scale to ~$50m by the time I left by setting up the telehealth BU from scratch.</p>
         </section>
 
         <section id="sectors" className="mb-8">
           <h2 className="text-xl font-semibold mb-2">Sectors of Focus</h2>
           <ul className="list-disc list-inside">
-            <li>P0: AI, Cybersecurity</li>
-            <li>P1: Consumer platforms/brands, Financial Services, Deep tech</li>
+            <li>P0 – AI, Cybersecurity</li>
+            <li>P1 – Evaluate opportunistically: Consumer platforms/brands, Financial Services, Deep tech</li>
           </ul>
         </section>
 
@@ -48,7 +48,7 @@ export default function Home() {
 
           <p className="font-semibold mt-4">2. Vertical AI Agents</p>
           <ul className="list-disc list-inside text-sm">
-            <li>Vertical Voice AI agents – <a href="https://www.poly.ai">Poly AI</a>, <a href="https://www.assorthealth.com">Assort Health</a>, <a href="https://www.vocalityhealth.com/">Vocality Health</a>, <a href="https://www.happyrobot.ai">Happyrobot</a></li>
+            <li>Vertical specific Voice AI agents – <a href="https://www.poly.ai">Poly AI</a>, <a href="https://www.assorthealth.com">Assort Health</a>, <a href="https://www.vocalityhealth.com">Vocality Health</a>, <a href="https://www.happyrobot.ai">Happyrobot</a></li>
             <li>AI agents for Life Sciences</li>
             <li>AI agents for Cloud migration</li>
             <li>AI agents for BFSI compliance</li>
@@ -60,15 +60,15 @@ export default function Home() {
           <p className="font-semibold mt-4">3. AI-Enabled Agencies / Services</p>
           <ul className="list-disc list-inside text-sm">
             <li>Salesforce/SAP implementation agency</li>
-            <li>AI-powered CRO agency – <a href="https://fibr.ai/">Fibr AI</a></li>
+            <li>AI-powered Conversion rate optimisation agency – <a href="https://fibr.ai/">Fibr AI</a></li>
           </ul>
 
           <p className="font-semibold mt-4">4. AI Infra & Tooling</p>
           <ul className="list-disc list-inside text-sm">
             <li>AI-powered Data Documentation – <a href="https://www.getzingle.com/">Zingle</a></li>
             <li>Scale AI for audio – <a href="https://www.withdavid.ai/">David AI</a></li>
-            <li>Foundational models for weather prediction</li>
-            <li>Generative Engine Optimization (GEO)</li>
+            <li>Foundational model for weather prediction</li>
+            <li>GEO – Generative engine optimization</li>
             <li>Synthetic humans for UI/UX workflow validations</li>
           </ul>
 
@@ -80,23 +80,25 @@ export default function Home() {
 
           <p className="font-semibold mt-4">6. Knowledge Work</p>
           <ul className="list-disc list-inside text-sm">
-            <li><a href="https://www.gong.io">Gong</a> for high-ticket offline sales</li>
+            <li>Gong for high ticket offline sales</li>
             <li>Video AI agent for pre-sales & onboarding</li>
             <li>AI co-pilots for Site Reliability Engineers (SREs)</li>
           </ul>
-
+        </section>
+        <section id="themes-cybersecurity" className="mb-8">
           <p className="text-xl font-bold mt-6">Cybersecurity</p>
+
           <p className="font-semibold mt-4">1. Infrastructure Security</p>
           <ul className="list-disc list-inside text-sm">
-            <li>Zero CVE container images – <a href="https://www.chainguard.dev">Chainguard</a></li>
+            <li>Zero CVE hardened container images – <a href="https://www.chainguard.dev">Chainguard</a></li>
             <li>Security for MCP servers</li>
-            <li>AI-native email security</li>
+            <li>AI native email security</li>
           </ul>
 
           <p className="font-semibold mt-4">2. Security Data & Observability</p>
           <ul className="list-disc list-inside text-sm">
-            <li>Security data fabric – <a href="https://www.cribl.io">Cribl</a></li>
-            <li>AI-powered SOC with differentiated GTM wedge</li>
+            <li>Security data fabric/Data pipeline management platform – <a href="https://www.cribl.io">Cribl</a></li>
+            <li>AI-powered SOC – Competitive market but differentiated wedge/insight on GTM could make it interesting</li>
           </ul>
 
           <p className="font-semibold mt-4">3. Identity & Access</p>
@@ -104,9 +106,9 @@ export default function Home() {
             <li>Identity Security for Agents</li>
           </ul>
 
-          <p className="font-semibold mt-4">4. Security Services / Reviews</p>
+          <p className="font-semibold mt-4">4. Security Services</p>
           <ul className="list-disc list-inside text-sm">
-            <li>Security Design Reviews – <a href="https://seezo.io/">Seezo</a></li>
+            <li>Security Design Reviews – <a href="https://seezo.io">Seezo</a></li>
           </ul>
         </section>
 
@@ -114,33 +116,34 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">What Do I Look Out For in Early Stage Teams?</h2>
           <ul className="list-disc list-inside text-sm">
             <li>Sharp articulation of founder right to win</li>
-            <li>Early signs of ability to attract high-quality talent</li>
-            <li>Clear articulation of the problem (ideally backed by case study)</li>
-            <li>Demo of status quo</li>
-            <li>Brownie points for AI founders in Bay Area</li>
-            <li>Sticky businesses, deep thinking on moats</li>
-            <li>Right to win from India (e.g., AI services)</li>
-            <li>High bar on product and design – <a href="https://elevenlabs.io">Eleven Labs</a>, <a href="https://www.rox.com">Rox</a></li>
+            <li>Early signs of founders’ ability to attract high quality talent</li>
+            <li>Very clear articulation of the problem statement – Important to establish the pain in status quo via a customer case study (existing headcount/headcount spend, how much time does it take to solve the problem, what is the existing tech stack)</li>
+            <li>Demo of status quo – I don’t think enough founders do this today</li>
+            <li>Brownie points for founders who have already moved to the Bay Area</li>
+            <li>Design pilots in US</li>
+            <li>Sticky businesses – intuitively should be hard to churn out of them</li>
+            <li>Honest and deep thinking on moats</li>
+            <li>Any unique right to win for this business to be built out of India? For eg AI Services</li>
+            <li>High bar on product and design sense of website/demo – <a href="https://elevenlabs.io">Eleven Labs</a>, <a href="https://www.rox.com">Rox</a></li>
           </ul>
         </section>
 
         <section id="markets" className="mb-8">
           <h2 className="text-xl font-semibold mb-2">Loose Frameworks for How I Think About Markets & Business</h2>
           <ul className="list-disc list-inside text-sm">
-            <li>Prefer $2–3B+ markets</li>
-            <li>Bottoms-up TAM > top-down (ideally both)</li>
-            <li>If TAM is small, still {'>'}$500M</li>
-            <li>If TAM is {'<'}$1B, then:
-              <ul className="list-disc ml-6">
-                <li>Grow 15%+ CAGR or</li>
-                <li>Clear Act 1 → Act 2 TAM expansion</li>
-              </ul>
-            </li>
-            <li>Look at spend pool on headcount/software</li>
-            <li>Compare top 3 players’ scale</li>
-            <li>"Holy Trifecta": Low time to value, low implementation time, common ICP pain</li>
-            <li>Honest split of live vs contracted ARR</li>
-            <li>Excited by sleepy categories with Excel/email coordination and/or IP</li>
+            <li>Ideally $2–3B+ markets are preferred</li>
+            <li>Bottoms-up TAM calculation builds more confidence than top-down; triangulation with both methods is best</li>
+            <li>If the TAM of what you're building is small, ideally small should also be >$500M</li>
+            <li>If TAM is &lt;$1B, then either:</li>
+            <ul className="list-disc ml-6">
+              <li>It should be growing at 15%+ CAGR</li>
+              <li>Or you need to have a clear articulation of how you will expand TAM by leveraging Act 1 to segue into Act 2 which opens up more revenue pools</li>
+            </ul>
+            <li>Best way to articulate TAM in software/AI is to look at existing spend pool on headcount/software in your category</li>
+            <li>Also, clearly articulate the Top 3 players in your category along with their scale to build confidence and demonstrate that large companies have been created in this category</li>
+            <li>Holy Trifecta: Low time to value + Low time to implement + Common pain point in ICP</li>
+            <li>Very clear/honest articulation of distinction between live/contracted/advanced stage conversation ARR</li>
+            <li>Sleepy Categories – Where there are large incumbents who have not been disrupted for a 10+ years, status quo of coordination is email/excel sheets, Very deep tech differentiation/Unique IP</li>
           </ul>
         </section>
 
@@ -148,8 +151,8 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">What Can I Help With?</h2>
           <ul className="list-disc list-inside">
             <li>Hiring</li>
-            <li>Customer intros</li>
-            <li>Pitch deck feedback</li>
+            <li>Customer introductions in my network</li>
+            <li>Feedback on Pitch Deck</li>
           </ul>
         </section>
 
@@ -157,15 +160,16 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">Favorites</h2>
           <p className="italic mb-1">Newsletters</p>
           <ul className="list-disc list-inside text-sm">
-            <li><a href="https://www.readthegeneralist.com/">Generalist</a> – Mario Gabriele</li>
-            <li><a href="https://www.bloomberg.com/account/newsletters/money-stuff">Money Stuff</a> – Matt Levine</li>
-            <li><a href="https://www.notboring.co/">Not Boring</a> – Packy McCormick</li>
+            <li><a href="https://www.readthegeneralist.com/">Generalist</a> by Mario Gabriele</li>
+            <li><a href="https://www.bloomberg.com/account/newsletters/money-stuff">Money Stuff</a> by Matt Levine</li>
+            <li><a href="https://www.notboring.co/">Not Boring</a> by Packy McCormick</li>
           </ul>
+
           <p className="italic mt-2 mb-1">Podcasts</p>
           <ul className="list-disc list-inside text-sm">
-            <li><a href="https://www.sequoiacap.com/series/crucible-moments/">Crucible Moments</a> – Sequoia</li>
+            <li><a href="https://www.sequoiacap.com/series/crucible-moments/">Crucible Moments</a> by Sequoia Capital</li>
             <li><a href="https://www.thetwentyminutevc.com/">The Twenty Minute VC</a></li>
-            <li><a href="https://www.joincolossus.com/episodes">Invest Like the Best</a> – Patrick O’Shaughnessy</li>
+            <li><a href="https://www.joincolossus.com/episodes">Invest like the best with Patrick O’Shaughnessy</a></li>
           </ul>
         </section>
 
