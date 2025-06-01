@@ -41,18 +41,11 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">Themes I'm Excited About (Representative, Not Exhaustive)</h2>
           <p className="text-sm text-gray-500 mb-4">Examples below are companies I like in these categories. I may or may not have any affiliation with them.</p>
 
-          <p className="text-xl font-bold mt-6">AI</p>
-          <p className="font-semibold mt-4">1. Horizontal Agent Infrastructure</p>
-          <ul className="list-disc list-inside text-sm">
-            <li>Observability for AI agents</li>
-            <li>AI-powered OS for Data Centres</li>
-            <li>AI-native video generation/editing platform</li>
-          </ul>
-
           <p className="font-semibold mt-4">2. Vertical AI Agents</p>
           <ul className="list-disc list-inside text-sm">
             <li>Vertical specific Voice AI agents – <a href="https://www.poly.ai">Poly AI</a>, <a href="https://www.assorthealth.com">Assort Health</a>, <a href="https://www.vocalityhealth.com">Vocality Health</a>, <a href="https://www.happyrobot.ai">Happyrobot</a></li>
             <li>AI agents for Life Sciences</li>
+            <li>AI-powered OS for Data Centres</li>
             <li>AI agents for Cloud migration</li>
             <li>AI agents for BFSI compliance</li>
             <li>AI co-pilot for radiologists</li>
@@ -72,13 +65,14 @@ export default function Home() {
             <li>Scale AI for audio – <a href="https://www.withdavid.ai/">David AI</a></li>
             <li>Foundational model for weather prediction</li>
             <li>GEO – Generative engine optimization</li>
-            <li>Synthetic humans for UI/UX workflow validations</li>
+            <li>Observability for AI agents</li>
           </ul>
 
-          <p className="font-semibold mt-4">5. Consumer AI</p>
+          <p className="font-semibold mt-4">5. Consumer/Prosumer AI</p>
           <ul className="list-disc list-inside text-sm">
             <li>AI companions for kids</li>
             <li>AI coach for retail investors</li>
+            <li>AI-native video generation/editing platform</li>
           </ul>
 
           <p className="font-semibold mt-4">6. Knowledge Work</p>
@@ -86,6 +80,7 @@ export default function Home() {
             <li>Gong for high ticket offline sales</li>
             <li>Video AI agent for pre-sales & onboarding</li>
             <li>AI co-pilots for Site Reliability Engineers (SREs)</li>
+            <li>Synthetic humans for UI/UX workflow validations</li>
           </ul>
         </section>
         <section id="themes-cybersecurity" className="mb-8">
