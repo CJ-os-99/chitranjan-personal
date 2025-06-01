@@ -47,7 +47,6 @@ export default function Home() {
             <li>Observability for AI agents</li>
             <li>AI-powered OS for Data Centres</li>
             <li>AI-native video generation/editing platform</li>
-            <li>Vmware for GPUs</li>
           </ul>
 
           <p className="font-semibold mt-4">2. Vertical AI Agents</p>
