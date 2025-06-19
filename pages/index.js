@@ -125,6 +125,7 @@ export default function Home() {
             <li>Moats - Built on non-publicly available data that cannot be crawled by LLMs, RLHF baked into workflows that makes your agents better over time</li>
             <li>Any unique right to win for this business to be built out of India? For eg AI Services</li>
             <li>High bar on product and design sense of website/demo – <a href="https://elevenlabs.io">Eleven Labs</a>, <a href="https://www.rox.com">Rox</a></li>
+            <li>Ready list of 30-50 logos they want to acquire in the next 12-24 months</li>
           </ul>
         </section>
 
