@@ -67,7 +67,6 @@ export default function Home() {
             <li>Scale AI for audio – <a href="https://www.withdavid.ai/">David AI</a></li>
             <li>Ad Network for AI – <a href="https://www.zeroclick.ai/">Zeroclick AI</a></li>
             <li>Foundational model for weather prediction</li>
-            <li>GEO – Generative engine optimization</li>
             <li>Observability for AI agents</li>
           </ul>
 
