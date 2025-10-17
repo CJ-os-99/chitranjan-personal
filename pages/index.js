@@ -56,7 +56,7 @@ export default function Home() {
 
           <p className="font-semibold mt-4">2. AI-Enabled Agencies / Services</p>
           <ul className="list-disc list-inside text-sm">
-            <li>Salesforce/SAP implementation agency – <a href="https://getdodge.ai/">Dodge AI</a></li>
+            <li>Salesforce/SAP implementation agency - <a href="https://getdodge.ai">Dodge AI</a></li>
             <li>AI-powered Conversion rate optimisation agency – <a href="https://fibr.ai">Fibr AI</a></li>
             <li>AI-powered travel agency</li>
           </ul>
