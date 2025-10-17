@@ -45,19 +45,20 @@ export default function Home() {
           <ul className="list-disc list-inside text-sm">
             <li>Vertical specific Voice AI agents – <a href="https://www.poly.ai">Poly AI</a>, <a href="https://www.assorthealth.com">Assort Health</a>, <a href="https://www.vocalityhealth.com">Vocality Health</a>, <a href="https://www.happyrobot.ai">Happyrobot</a></li>
             <li>AI for drug discovery/AI-assisted diagnostics – <a href="https://biostate.ai/">Biostate AI</a></li>
+            <li>AI agents for hotels - Voice AI concierge + Agents to automate SEO/Meta marketing + Hotel specific shopify like platform </li>
+            <li>AI native system of record for recruiting</li>
             <li>AI agents for Life Sciences</li>
             <li>AI-powered OS for Data Centres</li>
             <li>AI agents for Cloud migration</li>
             <li>AI agents for BFSI compliance</li>
             <li>AI co-pilot for radiologists</li>
-            <li>AI agents for Oil & Gas industry</li>
-            <li>AI-powered travel booking platform</li>
           </ul>
 
           <p className="font-semibold mt-4">2. AI-Enabled Agencies / Services</p>
           <ul className="list-disc list-inside text-sm">
-            <li>Salesforce/SAP implementation agency</li>
+            <li>Salesforce/SAP implementation agency – <a href="https://getdodge.ai/"Dodge AI</a></li>
             <li>AI-powered Conversion rate optimisation agency – <a href="https://fibr.ai/">Fibr AI</a></li>
+            <li>AI-powered travel agency</li>
           </ul>
 
           <p className="font-semibold mt-4">3. AI Infra & Tooling</p>
@@ -72,8 +73,7 @@ export default function Home() {
           <p className="font-semibold mt-4">4. Consumer/Prosumer AI</p>
           <ul className="list-disc list-inside text-sm">
             <li>AI companions for kids</li>
-            <li>AI coach for retail investors</li>
-            <li>AI-native video generation/editing platform</li>
+            <li>Non technical user friendly n8n</li>
           </ul>
 
           <p className="font-semibold mt-4">5. Knowledge Work</p>
@@ -108,6 +108,9 @@ export default function Home() {
           <p className="font-semibold mt-4">4. Security Services</p>
           <ul className="list-disc list-inside text-sm">
             <li>Security Design Reviews – <a href="https://seezo.io">Seezo</a></li>
+          </ul>
+
+        <p className="font-semibold mt-4">4. Formal Methods for Cybersecurity</p>
           </ul>
         </section>
 
