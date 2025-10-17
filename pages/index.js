@@ -111,7 +111,6 @@ export default function Home() {
           </ul>
 
         <p className="font-semibold mt-4">4. Formal Methods for Cybersecurity</p>
-          </ul>
         </section>
 
         <section id="teams" className="mb-8">
