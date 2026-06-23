@@ -22,10 +22,10 @@ export default function Home() {
         <section id="background" className="mb-8">
           <h2 className="text-xl font-semibold mb-2">My Background</h2>
           <p>
-            I’m an early stage investor at Accel. I spend most of my time on AI & cybersecurity, and opportunistically on deeptech & consumer platforms.
+            I’m an investor at Westbridge Capital. I spend most of my time on AI and Cybersecurity and opportunistically on deeptech platforms.
           </p>
           <p className="mt-2">
-            Previously, I was an operator at a consumer health platform called Mosaic Wellness. They're backed by Sequoia Capital, Matrix Partners and Elevation Capital. I joined them at ~$10M topline and helped scale to ~$50M by setting up their telehealth business unit from scratch.
+            Previously, I was an early stage investor at Accel, where some of the companies I sourced/invested in included Rigor AI (formal methods for cybersecurity; repeat founders who have sold 4 companies to Cisco/Palo Alto Networks), Biostate AI (foundational models trained on RNA sequencing data; repeat founder, Caltech PhD), Sabi (thought-to-text wearable; co-invested with Khosla Ventures), Dodge AI (AI agents for SAP; co-invested with Google AI Futures Fund) and Fabheads Automation (carbon fibre component automation; the only company in India to build and own automated fibre placement machines) Before that, I was an operator at a consumer health platform called Mosaic Wellness. They're backed by Sequoia Capital, Matrix Partners and Elevation Capital. I joined them at ~$10M topline and helped scale to ~$50M by setting up their telehealth business unit from scratch.
           </p>
         </section>
 
@@ -33,7 +33,7 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-2">Sectors of Focus</h2>
           <ul className="list-disc list-inside">
             <li>P0 – AI, Cybersecurity</li>
-            <li>P1 – Evaluate opportunistically: Consumer platforms/brands, Financial Services, Deep tech</li>
+            <li>P1 – Evaluate opportunistically: Semiconductors, Deep tech</li>
           </ul>
         </section>
 
@@ -54,16 +54,21 @@ export default function Home() {
             <li>AI co-pilot for radiologists</li>
           </ul>
 
+        <p className="font-semibold mt-4">1. Horizontal AI native platforms</p>
+          <ul className="list-disc list-inside text-sm">
+        <li>Platform to build AI agents, workflows and UIs, paired with FDEs for enterprise deployment and customisation <a href="https://www.unifyapps.com/">UnifyApps</a></li>
+           </ul>
           <p className="font-semibold mt-4">2. AI-Enabled Agencies / Services</p>
           <ul className="list-disc list-inside text-sm">
             <li>Salesforce/SAP implementation agency - <a href="https://getdodge.ai">Dodge AI</a></li>
             <li>AI-powered Conversion rate optimisation agency – <a href="https://fibr.ai">Fibr AI</a></li>
-            <li>AI-powered travel agency</li>
+            <li>AI-powered corporate travel agency</li>
+             <li>AI-native Engineering, Research & Development Services firm (Automotive/Telecom focused) </li>
           </ul>
 
           <p className="font-semibold mt-4">3. AI Infra & Tooling</p>
           <ul className="list-disc list-inside text-sm">
-            <li>AI-powered Data Documentation – <a href="https://www.getzingle.com/">Zingle</a></li>
+            <li>AI-native database-as-a-service (DBaaS) platform – <a href="https://www.tessell.com/">Tessell</a></li>
             <li>Scale AI for audio – <a href="https://www.withdavid.ai/">David AI</a></li>
             <li>Ad Network for AI – <a href="https://www.zeroclick.ai/">Zeroclick AI</a></li>
             <li>Foundational model for weather prediction</li>
@@ -79,7 +84,6 @@ export default function Home() {
           <p className="font-semibold mt-4">5. Knowledge Work</p>
           <ul className="list-disc list-inside text-sm">
             <li>Gong for high ticket offline sales</li>
-            <li>Video AI agent for pre-sales & onboarding</li>
             <li>AI co-pilots for Site Reliability Engineers (SREs)</li>
             <li>Synthetic humans for UI/UX workflow validations</li>
           </ul>
@@ -111,6 +115,9 @@ export default function Home() {
           </ul>
 
         <p className="font-semibold mt-4">4. Formal Methods for Cybersecurity</p>
+        <ul className="list-disc list-inside text-sm">
+            <li>Formal methods for firewall security – <a href="https://innowate.ai/">Rigor AI</a></li>
+          </ul>
         </section>
 
         <section id="teams" className="mb-8">
