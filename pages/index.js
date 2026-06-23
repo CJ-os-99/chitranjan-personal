@@ -57,9 +57,9 @@ export default function Home() {
             <li>AI co-pilot for radiologists</li>
           </ul>
 
-        <p className="font-semibold mt-4">2. Horizontal AI native platforms</p>
+        <p className="font-semibold mt-4">2. Horizontal Platforms</p>
           <ul className="list-disc list-inside text-sm">
-        <li> Agentic workflow builder platform + FDEs <a href="https://www.unifyapps.com/">UnifyApps</a></li>
+        <li> Enterprise focused agent builder platform - <a href="https://www.unifyapps.com/">UnifyApps</a></li>
            </ul>
           <p className="font-semibold mt-4">3. AI-Enabled Agencies / Services</p>
           <ul className="list-disc list-inside text-sm">
