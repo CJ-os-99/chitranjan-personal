@@ -46,9 +46,10 @@ export default function Home() {
 
           <p className="font-semibold mt-4">1. Vertical AI Agents</p>
           <ul className="list-disc list-inside text-sm">
-            <li>Vertical specific Voice AI agents – <a href="https://www.poly.ai">Poly AI</a>, <a href="https://www.assorthealth.com">Assort Health</a>, <a href="https://www.vocalityhealth.com">Vocality Health</a>, <a href="https://www.happyrobot.ai">Happyrobot</a></li>
+            <li>Vertical specific Voice AI agents – <a href="https://www.poly.ai">Poly AI</a>, <a href="https://www.assorthealth.com">Assort Health</a>, <a href="https://www.happyrobot.ai">Happyrobot</a></li>
             <li>AI for drug discovery/AI-assisted diagnostics – <a href="https://biostate.ai/">Biostate AI</a></li>
             <li>AI agents for hotels - Voice AI concierge + Agents to automate SEO/Meta marketing + Hotel specific shopify like platform </li>
+            <li>AI agents for user research - <a href="https://listenlabs.ai/">Listen Labs</a></li>
             <li>AI native system of record for recruiting</li>
             <li>AI agents for Life Sciences</li>
             <li>AI-powered OS for Data Centres</li>
