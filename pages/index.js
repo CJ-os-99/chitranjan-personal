@@ -25,7 +25,10 @@ export default function Home() {
             I’m an investor at Westbridge Capital. I spend most of my time on AI and Cybersecurity and opportunistically on deeptech platforms.
           </p>
           <p className="mt-2">
-            Previously, I was an early stage investor at Accel, where some of the companies I sourced/invested in included Rigor AI (formal methods for cybersecurity; repeat founders who have sold 4 companies to Cisco/Palo Alto Networks), Biostate AI (foundational models trained on RNA sequencing data; repeat founder, Caltech PhD), Sabi (thought-to-text wearable; co-invested with Khosla Ventures), Dodge AI (AI agents for SAP; co-invested with Google AI Futures Fund) and Fabheads Automation (carbon fibre component automation; the only company in India to build and own automated fibre placement machines) Before that, I was an operator at a consumer health platform called Mosaic Wellness. They're backed by Sequoia Capital, Matrix Partners and Elevation Capital. I joined them at ~$10M topline and helped scale to ~$50M by setting up their telehealth business unit from scratch.
+            Previously, I was an early stage investor at Accel, where some of the companies I sourced/invested in included Rigor AI (formal methods for cybersecurity; repeat founders who have sold 4 companies to Cisco/Palo Alto Networks), Biostate AI (foundational models trained on RNA sequencing data; repeat founder/Caltech PhD), Sabi (thought-to-text wearable; co-invested with Khosla Ventures), Dodge AI (AI agents for SAP; co-invested with Google AI Futures Fund) and Fabheads Automation (carbon fibre component automation; the only company in India to build an automated fibre placement machines) 
+        </p>
+          <p className="mt-2">
+        Before that, I was an operator at a consumer health platform called Mosaic Wellness. They're backed by Sequoia Capital, Matrix Partners and Elevation Capital. I joined them at ~$10M topline and helped scale to ~$50M by setting up their telehealth business unit from scratch.
           </p>
         </section>
 
@@ -54,11 +57,11 @@ export default function Home() {
             <li>AI co-pilot for radiologists</li>
           </ul>
 
-        <p className="font-semibold mt-4">1. Horizontal AI native platforms</p>
+        <p className="font-semibold mt-4">2. Horizontal AI native platforms</p>
           <ul className="list-disc list-inside text-sm">
-        <li>Platform to build AI agents, workflows and UIs, paired with FDEs for enterprise deployment and customisation <a href="https://www.unifyapps.com/">UnifyApps</a></li>
+        <li> Agentic workflow builder platform + FDEs <a href="https://www.unifyapps.com/">UnifyApps</a></li>
            </ul>
-          <p className="font-semibold mt-4">2. AI-Enabled Agencies / Services</p>
+          <p className="font-semibold mt-4">3. AI-Enabled Agencies / Services</p>
           <ul className="list-disc list-inside text-sm">
             <li>Salesforce/SAP implementation agency - <a href="https://getdodge.ai">Dodge AI</a></li>
             <li>AI-powered Conversion rate optimisation agency – <a href="https://fibr.ai">Fibr AI</a></li>
@@ -66,7 +69,7 @@ export default function Home() {
              <li>AI-native Engineering, Research & Development Services firm (Automotive/Telecom focused) </li>
           </ul>
 
-          <p className="font-semibold mt-4">3. AI Infra & Tooling</p>
+          <p className="font-semibold mt-4">4. AI Infra & Tooling</p>
           <ul className="list-disc list-inside text-sm">
             <li>AI-native database-as-a-service (DBaaS) platform – <a href="https://www.tessell.com/">Tessell</a></li>
             <li>Scale AI for audio – <a href="https://www.withdavid.ai/">David AI</a></li>
@@ -75,13 +78,13 @@ export default function Home() {
             <li>Observability for AI agents</li>
           </ul>
 
-          <p className="font-semibold mt-4">4. Consumer/Prosumer AI</p>
+          <p className="font-semibold mt-4">5. Consumer/Prosumer AI</p>
           <ul className="list-disc list-inside text-sm">
             <li>AI companions for kids</li>
             <li>Non technical user friendly n8n</li>
           </ul>
 
-          <p className="font-semibold mt-4">5. Knowledge Work</p>
+          <p className="font-semibold mt-4">6. Knowledge Work</p>
           <ul className="list-disc list-inside text-sm">
             <li>Gong for high ticket offline sales</li>
             <li>AI co-pilots for Site Reliability Engineers (SREs)</li>
