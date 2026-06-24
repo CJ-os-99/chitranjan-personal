@@ -25,7 +25,7 @@ export default function Home() {
             I’m an investor at Westbridge Capital. I spend most of my time on AI and Cybersecurity and opportunistically on deeptech platforms.
           </p>
           <p className="mt-2">
-            Previously, I was an early stage investor at Accel, where some of the companies I sourced/invested in included Rigor AI (formal methods for cybersecurity; repeat founders who have sold 4 companies to Cisco/Palo Alto Networks), Biostate AI (foundational models trained on RNA sequencing data; repeat founder/Caltech PhD), Sabi (thought-to-text wearable; co-invested with Khosla Ventures), Dodge AI (AI agents for SAP; co-invested with Google AI Futures Fund) and Fabheads Automation (carbon fibre component automation; the only company in India to build an automated fibre placement machines) 
+            Previously, I was an early stage investor at Accel, where some of the companies I sourced/invested in included Rigor AI (formal methods for cybersecurity; repeat founders who have sold 4 companies to Cisco/Palo Alto Networks), Biostate AI (foundational models trained on RNA sequencing data; repeat founder/Caltech PhD), Sabi (thought-to-text wearable; co-invested with Khosla Ventures), Dodge AI (AI agents for SAP; co-invested with Google AI Futures Fund) and Fabheads Automation (carbon fibre component automation; the only company in India to build an automated fibre placement machine) 
         </p>
           <p className="mt-2">
         Before that, I was an operator at a consumer health platform called Mosaic Wellness. They're backed by Sequoia Capital, Matrix Partners and Elevation Capital. I joined them at ~$10M topline and helped scale to ~$50M by setting up their telehealth business unit from scratch.
